@@ -22,7 +22,7 @@
 		<tr>
 			<td>Gender :</td>
 			<td><form:radiobutton path="gender" value="M" label="M" /> 
-				<form:radiobutton path="gender" value="F" label="F" /></td>
+				<form:radiobutton path="gender" value="F" label="F" colour="blue" /></td>
 		</tr>
 		<tr>
 			<td>Country :</td>
@@ -55,7 +55,7 @@
 		</tr>
 	</table>
 
-<table width="80%" bgcolor="pink" align="right" border=5>
+<table width="100%" bgcolor="blue" align="right" border=5>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
