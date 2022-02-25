@@ -22,7 +22,7 @@
 		<tr>
 			<td>Gender :</td>
 			<td><form:radiobutton path="gender" value="M" label="M" /> 
-				<form:radiobutton path="gender" value="F" label="F" colour="blue" /></td>
+				<form:radiobutton path="gender" value="F" label="F"  /></td>
 		</tr>
 		<tr>
 			<td>Country :</td>
